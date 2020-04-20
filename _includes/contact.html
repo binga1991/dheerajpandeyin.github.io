@@ -37,6 +37,12 @@
     </li>
     {% endif %}
 
+    {% if sidebar.medium %}
+    <li class="website"><i class="fas fa-globe-americas"></i>
+      <a href="http://{{ sidebar.medium }}" target="_blank">{{ sidebar.medium }}</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.bitbucket %}
     <li class="bitbucket"><i class="fab fa-bitbucket"></i>
       <a href="http://bitbucket.com/{{ sidebar.bitbucket }}" target="_blank">{{ sidebar.bitbucket }}</a>
