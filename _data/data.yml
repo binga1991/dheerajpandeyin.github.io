@@ -53,7 +53,7 @@ career-profile:
        as well as test case design and UAT.
 education:
     - degree: MSc in Computer Science
-      university: Maharishi International University
+      university: Maharishi International University, Iowa, United States
       time: 2019 - present
       details: |
           - Fundamental Programming Practices
@@ -64,7 +64,7 @@ education:
           - Software Engineering
 
     - degree: BSc in Information System
-      university: Binus International University
+      university: Binus International University, Jakarta, Indonesia
       time: 2016 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -76,7 +76,7 @@ education:
           - Bullet point
 
     - degree: Associate Degree in Computer Science
-      university: Del Institute of Technology
+      university: Del Institute of Technology, North Sumatera, Indonesia
       time: 2012 - 2015
       details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -89,7 +89,7 @@ education:
 experiences:
     - role: Graduate Teaching Assistant
       time: 2019 -  2020 (7 Months)
-      company: Maharishi International University, Iowa
+      company: Maharishi International University, Iowa, United States
       details: |
         I worked closedly helping student during Labs, projects session,
         Grading assigments, recording class attendence, and Checking project delivery.
