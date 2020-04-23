@@ -46,9 +46,9 @@ career-profile:
     title: Career Profile
     summary: |
       Senior software engineer in test and book author with over 5 years of experience in designing and executing advanced
-      manual and automation testing for complex software applications. Expert-level skills in developing automation test
-      frameworks for Android, IOS, API and web application which reduce false positives, bugs, and testing cost, while
-      significantly increasing software accuracy, efficiency, and application performance.
+      manual and automation testing for complex software. Expert-level skills in developing automation test
+      frameworks using cucumber Java, ruby, Appium and selenium for Android, IOS, API and WEB.
+      Hands on build CI/CD infrastructure & reporting using Jenkins, Gitlab CI, GCP (google cloud platform), Grafana, and InfluxDB.
 education:
     - degree: MSc in Computer Science
       university: Maharishi International University, Iowa, United States
@@ -142,19 +142,17 @@ experiences:
       details: |
           Contributed to the design and development of a robust API and a responsive mobile web interface.
 
+          Technologies Used: Laravel, PhpStorm, MySQL, Memcached, Elasticsearch, jQuery, CSS3, HTML5, JavaScript, Linux
+
           Tasks Performed:
           - Developing robust rest API along with clean code principle using Spring MVC and Laravel
           - Designed and implemented JUnit testing, and set up continuous integration (CI).
           - Implement messaging using RabbitMQ, email system using AMQP, AOP, Batch, Spring Security, Spring Integration, JUnit, and MongoDB.
           - Implement a few parts of the front end using Angular, JavaScript, HTML5, CSS, Blade, and Ajax
 
-
-        Achievements:
+          Achievements:
           - Developed and deployed pilot project Curator API within 1 month
           - Improved SEO and web performance from 77 to 92, and decreased page load speed
-
-
-        Technologies Used: Laravel, PhpStorm, MySQL, Memcached, Elasticsearch, jQuery, CSS3, HTML5, JavaScript, Linux
 
     - role: Web Development Trainer
       company:  PT WEB HOZZ, Jakarta, Indonesia
@@ -216,26 +214,32 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Automation Testing
+      - name: Cucumber, Appium, Selenium, BDD, TDD
         level: 98%
+
+      - name: Unit,Performance, Integration Testing
+        level: 97%
+
+      - name: Jenkins, Gitlab, CI/CI, Grafana
+        level: 96%
 
       - name: Java
-        level: 98%
-
-      - name: Spring Boot & MVC
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
         level: 95%
 
+      - name: Spring Boot & MVC
+        level: 95%
+
+      - name: Javascript & jQuery
+        level: 95%
+
+      - name: Angular
+        level: 94%
+
+      - name: HTML5 & CSS
+        level: 94%
+
       - name: Ruby on Rails
-        level: 85%
+        level: 84%
 
 footer: >
     © 2020 Build by Lamhot Siagian
