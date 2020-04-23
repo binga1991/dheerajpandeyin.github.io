@@ -45,12 +45,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-       Exceptional Information Technology specialist with over 5 years of experience designing
-       and executing advanced manual and automation testing strategies for complex software applications.
-       Expert-level skills in developing automation test frameworks, test result dashboards, and internal
-       tools which reduce false positives, page load, and development time, while significantly increasing
-       software accuracy, efficiency, and performance. Expertise in unit, integration, and A/B testing,
-       as well as test case design and UAT.
+      Senior software engineer in test and book author with over 5 years of experience in designing and executing advanced
+      manual and automation testing for complex software applications. Expert-level skills in developing automation test
+      frameworks for Android, IOS, API and web application which reduce false positives, bugs, and testing cost, while
+      significantly increasing software accuracy, efficiency, and application performance.
 education:
     - degree: MSc in Computer Science
       university: Maharishi International University, Iowa, United States
