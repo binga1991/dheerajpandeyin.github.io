@@ -215,7 +215,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Cucumber, Appium, Selenium, BDD, TDD
+      - name: Gherkin,Cucumber, Appium, Selenium, BDD, TDD
         level: 98%
 
       - name: Unit,Performance, Integration Testing
