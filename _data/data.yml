@@ -143,15 +143,18 @@ experiences:
           Contributed to the design and development of a robust API and a responsive mobile web interface.
 
           Tasks Performed:
-          - Designed and implemented unit testing, and set up continuous integration (CI).
-          - Improved SEO performance of main website.
-          - Added feature improvements to admin dashboard and web landing page.
+          - Developing robust rest API along with clean code principle using Spring MVC and Laravel
+          - Designed and implemented JUnit testing, and set up continuous integration (CI).
+          - Implement messaging using RabbitMQ, email system using AMQP, AOP, Batch, Spring Security, Spring Integration, JUnit, and MongoDB.
+          - Implement a few parts of the front end using Angular, JavaScript, HTML5, CSS, Blade, and Ajax
 
-          Achievements:
-          - Developed and deployed Curator API.
-          - Improved SEO points from 77 to 92, and decreased page load speed from 25s to 1.633s.
 
-          Technologies Used: Laravel, PhpStorm, MySQL, Memcached, Elasticsearch, jQuery, CSS3, HTML5, JavaScript, Linux
+        Achievements:
+          - Developed and deployed pilot project Curator API within 1 month
+          - Improved SEO and web performance from 77 to 92, and decreased page load speed
+
+
+        Technologies Used: Laravel, PhpStorm, MySQL, Memcached, Elasticsearch, jQuery, CSS3, HTML5, JavaScript, Linux
 
     - role: Web Development Trainer
       company:  PT WEB HOZZ, Jakarta, Indonesia
