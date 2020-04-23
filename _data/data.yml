@@ -48,7 +48,7 @@ career-profile:
       Senior software engineer in test and book author with over 5 years of experience in designing and executing advanced
       manual and automation testing for complex software. Expert-level skills in developing automation test
       frameworks using cucumber Java, ruby, Appium and selenium for Android, IOS, API and WEB.
-      Hands on build CI/CD infrastructure & reporting using Jenkins, Gitlab CI, GCP (google cloud platform), Grafana, and InfluxDB.
+      Hands on build CI/CD infrastructure & reporting using docker, Jenkins, Gitlab CI, GCP (google cloud platform), Grafana, and InfluxDB.
 education:
     - degree: MSc in Computer Science
       university: Maharishi International University, Iowa, United States
@@ -221,7 +221,7 @@ skills:
       - name: Unit,Performance, Integration Testing
         level: 97%
 
-      - name: Jenkins, Gitlab, CI/CI, Grafana
+      - name: Docker, Jenkins, Gitlab, CI/CI, Grafana
         level: 96%
 
       - name: Java
