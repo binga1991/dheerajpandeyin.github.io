@@ -120,21 +120,22 @@ experiences:
       time: 2015 - 2016
       company: FUNDING SOCIETIES PTE LTD, Singapore
       details: |
-          Designed and executed complex manual and automation tests for API, desktop web, mobile web, Android, and iOS apps.
+        Designed and executed complex manual and automation tests for API, desktop web, mobile web, Android, and iOS apps.
 
-          Tasks Performed:
-          -	Designed, wrote, and implemented test cases into automation frameworks.
-          -	Identified areas where automation can be leveraged to increase coverage.
-          -	Built and maintained tooling and test infrastructure.
-          -	Maintained test result reporting and visualization using Grafana and InfluxDB.
-          -	Coordinated closely with customer success and support teams to triage, track down, and prioritize client-reported issues, including root cause analysis on critical issues and incidents.
-          -	Ran and revised smoke tests to ensure optimal post-production behavior and manual testing.
+        Tasks Performed:
+        - Designed, wrote, and implemented test cases into automation frameworks.
+        - Identified areas where automation can be leveraged to increase coverage.
+        - Built and maintained tooling and test infrastructure.
+        - Maintained test result reporting and visualization using Grafana and InfluxDB.
+        - Coordinated closely with customer success and support teams to triage, track down, and prioritize client-reported issues, including root cause analysis on critical issues and incidents.
+        - Ran and revised smoke tests to ensure optimal post-production behavior and manual testing.
 
-          Achievements:
-          - Successfully implemented tests for Funding Societies' web dashboard, investor Android & iOS apps, and borrower Android & iOS apps.
-          - Conducted testing on Modalku web dashboard as well as investor and borrower Android & iOS apps.
-          - Handled Quality Assurance processes on multiple major products and partnerships.
-          - Initiated the build of automation testing platforms for API and web.
+        Achievements:
+        - Successfully implemented tests for Funding Societies' web dashboard, investor Android & iOS apps, and borrower Android & iOS apps
+        - Conducted testing on Modalku web dashboard as well as investor and borrower Android & iOS apps
+        - Handled Quality Assurance processes on multiple major products and partnerships
+        - Initiated the build of automation testing platforms for API and web
+
 
     - role: Back-End Software Engineer
       company:  PT KURIO, Jakarta, Indonesia
