@@ -1,0 +1,17 @@
+I"Z<p>Contributed to the design and development of a robust API and a responsive mobile web interface.</p>
+
+<p>Technologies Used: Laravel, Spring MVC, MongoDB, MySQL, Memcached, Elasticsearch, jQuery, CSS3, HTML5, JavaScript, Linux, Flask</p>
+
+<p>Tasks Performed:</p>
+<ul>
+  <li>Developing robust rest API along with clean code principle using Spring MVC and Laravel</li>
+  <li>Implement messaging using RabbitMQ, email system, AOP, Batch, Spring Security, Spring Integration, JUnit testing, and set up continuous integration (CI), and MongoDB.</li>
+  <li>Implement a few parts of the front end using Angular, JavaScript, HTML5, CSS, Blade, and Ajax</li>
+</ul>
+
+<p>Achievements:</p>
+<ul>
+  <li>Developed and deployed pilot project Curator API within 1 month</li>
+  <li>Reduce API performance response time through implement caching and Elasticsearch</li>
+</ul>
+:ET

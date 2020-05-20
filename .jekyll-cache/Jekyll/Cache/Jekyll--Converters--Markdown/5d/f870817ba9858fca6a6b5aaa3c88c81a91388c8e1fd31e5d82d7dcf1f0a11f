@@ -1,0 +1,19 @@
+I"C<p>Implement end-to-end automation test (Android, IOS, API, WEB), automation framework, CI/CD, performance test, and mentoring junior SDET.</p>
+
+<p>Technologies Used: Spring Boot, Java, Go, Python, Jenkins, Grafana, GitLab CI, Docker, Postman, Appium, Git, JIRA, RabbitMQ, GCP, SonarQube, Kubernetes, Charles Proxy, Blazemeter, SOAP UI
+Tasks Performed:</p>
+<ul>
+  <li>Implemented complex automation tests for API, Web, Android, and iOS using Cucumber and Appium Java/Ruby/Python.</li>
+  <li>Implement unit testing for backend and front-end using Junit, Mockito, TestNG, Pytest, Chai, Karma, and Mocha.</li>
+  <li>Provided detailed walkthrough of test plans, test cases, bug and test report to project team.</li>
+  <li>Responsible for maintaining and adding new features to the automation test framework.</li>
+  <li>Implemented performance test using JMeter, Locust, SOAP UI and executed on GCP cloud, Jenkins, Sauce Labs, and Blazemeter.</li>
+  <li>Implemented and maintain CI/CD pipeline  for microservices, unit test, regression testing, and integration testing using Gitlab CI, Jenkins, Docker, and Travis CI.</li>
+  <li>Supervise, mentoring, and code review a seven-member QA team in developing and implementing automation code to ensure compliance with QA standards and user specifications
+Achievements:</li>
+  <li>Recognized as the youngest SDET promoted to Senior SDET and joined Core QA team.</li>
+  <li>Traveled to Tokyo, Japan, for 2 weeks attending the Selenium &amp; Appium Conference.</li>
+  <li>Reduced execution time of automation tests by up to 40% through parallel execution, headless browsers, and implemented SQL automation testing.</li>
+  <li>Reduced automation test false positives up to 50% through using Page Object, CSS selector standard for UI, timeout management, priorities test scenario test, and move execution to GCP.</li>
+</ul>
+:ET

@@ -1,0 +1,21 @@
+I"U<p>Designed and executed complex manual and automation tests for API, desktop web, mobile web, Android, and iOS apps.</p>
+
+<p>Technologies Used: Python, Django, PyCharm, Newman, Robot Framework, Selenium, Travis CI, Jenkins, MS SQL, Nightwatch
+Tasks Performed:</p>
+<ul>
+  <li>Designed, wrote, and implemented test cases into automation frameworks.</li>
+  <li>Identified areas where automation can be leveraged to increase coverage.</li>
+  <li>Built and maintained tooling and test infrastructure.</li>
+  <li>Maintained test result reporting and visualization using Grafana and InfluxDB.</li>
+  <li>Coordinated closely with customer success and support teams to triage, track down, and prioritize client-reported issues, including root cause analysis on critical issues and incidents.</li>
+  <li>Ran and revised smoke tests to ensure optimal post-production behavior and manual testing.</li>
+</ul>
+
+<p>Achievements:</p>
+<ul>
+  <li>Successfully implemented tests for Funding Societies’ web dashboard, investor Android &amp; iOS apps, and borrower Android &amp; iOS apps.</li>
+  <li>Conducted testing on Modalku web dashboard as well as investor and borrower Android &amp; iOS apps.</li>
+  <li>Handled Quality Assurance processes on multiple major products and partnerships.</li>
+  <li>Initiated the build of automation testing platforms for API and web.</li>
+</ul>
+:ET
