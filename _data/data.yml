@@ -167,7 +167,7 @@ projects:
         implement dockerization, multiple browser, headless test. Technogies: Rest Assured, Appium, Selenium Ruby and Java, 
         shell script, Docker, GPC, Kubernetes, BrowserMob, Jenkins, Gitlab CI, GIT"
 
-      - title: E-Money, Bukalapak.com, MIU (2017)
+      - title: E-Money, Bukalapak.com (2017)
         link: "#"
         tagline: "Implement API integration test for deposit, service mutation, user KYC, withdrawal, top-up, bank mutation, reconciliation, reversal, charge, capture transaction, settlement, split transaction and notification.
         Technologies Used: Rest Assured, Spring Boot, Gitlab CI, Cucumber"
@@ -177,7 +177,7 @@ projects:
         tagline: "Design and executing functional testing for borrower/ investor registration, re-payment, disburse, top-up, withdrawal, and transaction on API, Web, Android, and IOS platform.
         Technologies Used: C#, MS SQL, Postman, Newman, Selenium Python, RobotFramework, Nightwatch."
       
-      - title: News Apps API, Kurio (2015)
+      - title: News Apps API, PT.Kurio (2015)
         link: "#"
         tagline: "Implement API CRUD along with cache management for trending topic, push notification, category, and news. Integrating push notification with queue & engine push notification using JMS. Fixing search performance using Elasticsearch.
         Technologies Used: Spring MVC, Junit, Elastics Search, Memcached, Rest API, Circle CI"
