@@ -47,10 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Senior software engineer in test and book author with over 4 years of experience in designing and executing advanced
-      manual and automation testing for complex software. Expert-level skills in developing automation test
-      frameworks using cucumber Java, ruby, Appium and selenium for Android, IOS, API and WEB.
-      Hands on build CI/CD infrastructure & reporting using docker, Jenkins, Gitlab CI, GCP (google cloud platform), Grafana, and InfluxDB.
+      Software engineer in test with 5 years of experience in designing and executing automation and manual testing for banking, finance, and e-commerce industry. Expert-level skills in developing automation test using selenium Java/ruby/python with Cucumber, Appium Android/IOS, Rest-Assured for API, and performance test with JMeter. Hands on build CI/CD infrastructure & Visualization using Kubernetes, Docker, Jenkins, Gitlab CI, GCP (Google Cloud Platform), and Grafana.
 education:
     - degree: MSc in Computer Science
       university: Maharishi International University, Iowa, United States
@@ -94,6 +91,7 @@ experiences:
         Implement end-to-end automation test (Android, IOS, API, WEB), automation framework, CI/CD, performance test, and mentoring junior SDET.
 
         Technologies Used: Spring Boot, Java, Go, Python, Jenkins, Grafana, GitLab CI, Docker, Postman, Appium, Git, JIRA, RabbitMQ, GCP, SonarQube, Kubernetes, Charles Proxy, Blazemeter, SOAP UI
+        
         Tasks Performed:
         - Implemented complex automation tests for API, Web, Android, and iOS using Cucumber and Appium Java/Ruby/Python.
         - Implement unit testing for backend and front-end using Junit, Mockito, TestNG, Pytest, Chai, Karma, and Mocha.
@@ -115,6 +113,7 @@ experiences:
         Designed and executed complex manual and automation tests for API, desktop web, mobile web, Android, and iOS apps.
         
         Technologies Used: Python, Django, PyCharm, Newman, Robot Framework, Selenium, Travis CI, Jenkins, MS SQL, Nightwatch
+        
         Tasks Performed:
         - Designed, wrote, and implemented test cases into automation frameworks.
         - Identified areas where automation can be leveraged to increase coverage.
@@ -148,7 +147,6 @@ experiences:
           Achievements:
           - Developed and deployed pilot project Curator API within 1 month
           - Reduce API performance response time through implement caching and Elasticsearch
-
 
 projects:
     title: Projects

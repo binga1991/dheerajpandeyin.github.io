@@ -1,7 +1,8 @@
-I"C<p>Implement end-to-end automation test (Android, IOS, API, WEB), automation framework, CI/CD, performance test, and mentoring junior SDET.</p>
+I"K<p>Implement end-to-end automation test (Android, IOS, API, WEB), automation framework, CI/CD, performance test, and mentoring junior SDET.</p>
 
-<p>Technologies Used: Spring Boot, Java, Go, Python, Jenkins, Grafana, GitLab CI, Docker, Postman, Appium, Git, JIRA, RabbitMQ, GCP, SonarQube, Kubernetes, Charles Proxy, Blazemeter, SOAP UI
-Tasks Performed:</p>
+<p>Technologies Used: Spring Boot, Java, Go, Python, Jenkins, Grafana, GitLab CI, Docker, Postman, Appium, Git, JIRA, RabbitMQ, GCP, SonarQube, Kubernetes, Charles Proxy, Blazemeter, SOAP UI</p>
+
+<p>Tasks Performed:</p>
 <ul>
   <li>Implemented complex automation tests for API, Web, Android, and iOS using Cucumber and Appium Java/Ruby/Python.</li>
   <li>Implement unit testing for backend and front-end using Junit, Mockito, TestNG, Pytest, Chai, Karma, and Mocha.</li>
