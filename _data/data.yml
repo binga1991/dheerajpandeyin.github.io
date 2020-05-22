@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Software engineer in test with 5 years of experience in designing and executing automation and manual testing for banking, finance, and e-commerce industry. Expert-level skills in developing automation test using selenium Java/ruby/python with Cucumber, Appium Android/IOS, Rest-Assured for API, and performance test with JMeter. Hands on build CI/CD infrastructure & Visualization using Kubernetes, Docker, Jenkins, Gitlab CI, GCP (Google Cloud Platform), and Grafana.
+      Software Engineer in Test / Full Stack Test Engineer with 6 years of experience in designing and executing automation and manual testing for banking, finance, and e-commerce industry. Expert-level skills in developing web automation test, Android/IOS automation, API automation test, and performance test. Hands on build Continues Integration (CI) Infrastructure & Report Visualization with Grafana, Jenkins, Gitlab CI and others. Team player with excellent problem solving and analytical skills, ready to get deep into new tools and technologies to do the undivided best. Great automation skills using Java, Ruby, Python, Appium, Selenium and other test frameworks.
 education:
     - degree: MSc in Computer Science
       university: Maharishi International University, Iowa, United States
@@ -131,7 +131,7 @@ experiences:
 
 
 
-    - role: Back-End Software Engineer
+    - role: Software Engineer Intern
       company:  PT KURIO, Jakarta, Indonesia
       time: 2014 - 2015
       details: |
