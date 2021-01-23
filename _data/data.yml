@@ -9,8 +9,8 @@ sidebar:
     # Profile information
     name: Lamhot Siagian
     tagline: Software Engineer in Test
-    avatar: lamhot.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    address: 1000 N 4th St MR 61, 52557
+    avatar: -
+    address: -
 
   # Sidebar links
     email: -
