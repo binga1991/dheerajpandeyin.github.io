@@ -1,6 +1,6 @@
 # Lamhot Siagian — SDET / Test Engineer
 
-**📍 Austin, TX** • [lamhot.id@gmail.com](mailto:lamhot.id@gmail.com) • [LinkedIn](https://www.linkedin.com/in/lamhotsiagian/) • [GitHub](https://github.com/LamhotJM)
+**📍 Austin, TX** • [lamhot.id@gmail.com](mailto:lamhot.id@gmail.com) • [LinkedIn](https://www.linkedin.com/in/lamhotsiagian/) • [GitHub](https://github.com/lamhotsiagian)
 
 ---
 
