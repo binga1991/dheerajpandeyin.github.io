@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Over 9 years of experience leading test automation and quality engineering initiatives across finance, healthcare, retail, e-commerce, and medical devices. Expert in designing scalable frameworks, integrating CI/CD pipelines, and leveraging AI-driven tools to increase coverage and accelerate release cycles.
+Over 9 years of experience leading test automation and quality engineering initiatives across finance, healthcare, retail, e-commerce, and medical devices. Expert in designing scalable frameworks, integrating CI/CD pipelines and leveraging AI-driven tools to increase coverage and accelerate release cycles.
 
 ## Technical Skills
 
@@ -23,17 +23,19 @@ Over 9 years of experience leading test automation and quality engineering initi
 
 ### Senior SDET @ Kforce Inc. (Client: HP & Paramount+), Austin, TX
 
-**Nov 2024 – May 2025**
+**Nov 2022 – May 2025**
 
-* Architected end-to-end functional and acceptance tests using Kotlin, covering critical user journeys.
-* Developed load and performance frameworks with JMeter and k6, integrated into CI/CD pipelines.
-* Automated performance reporting and bottleneck analysis, optimizing system capacity by 20%.
+* Developed and maintained automated UI test suites with XCUI and Appium, ensuring consistent pass rates in CI/CD pipelines
+* Extended framework capabilities using Appium and Swift to integrate platform-specific test hooks and performance optimizations
+* CI/CD Configuration: Integrate tests into GitLab CI, Jenkins, Travis (Docker/Kubernetes) to enable fast, 
+* Metrics & Visualization: Publish pass/fail trends and performance dashboards via Grafana, Allure Reports·, ExtentReports, and chatbot alerts.
+* Mentorship: Pair program with and coach Junior SDETs on test design, framework patterns, and best practices.
 
 **Key Achievements:**
 
-* Reduced regression testing time from 5 days to 2 days, enabling bi-weekly releases.
-* Identified and fixed a critical memory leak, improving response times by 35%.
-* Decreased performance incidents by 40% through continuous testing integration.
+* Elevated UI-test stability from 85% to 97% by designing and implementing end-to-end scenarios in XCUITest and Espresso that simulate video play, pause, seek, and background-foreground transitions under varying network conditions; integrated with GitLab CI in Docker to catch regressions within 15 minutes.
+* Reduced flaky tests by 70% through Appium-based platform hooks that dynamically adjust timeouts and retry on known render-delay issues; slashed average pipeline runtime by 25% and improved overall pass rate to 99% in our Kubernetes-powered Jenkins environment.
+*  8 Improved user-perceived performance by 40% by embedding Swift-based performance probes around video-startup and buffer-fill routines, capturing metrics in Allure Reports and Grafana dashboards; surfaced critical regressions pre-release, preventing a 2× increase in customer-reported buffering incidents.
 
 ### SDET @ Apple, Sunnyvale, CA
 
