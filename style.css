@@ -149,7 +149,7 @@ li{
   top: 1.5pt;
 }
 
-/**** individual row blocks (date - decorator - details) ****/
+/**** individual row blocks (time date - decorator - details) ****/
 
 .blocks{
   display: flex;
