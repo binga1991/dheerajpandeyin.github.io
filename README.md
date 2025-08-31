@@ -1,6 +1,6 @@
-# Lamhot Siagian — SDET / Test Engineer
+# Dheeraj Pandey — SDET / Test Engineer
 
-**📍 Austin, TX** • [lamhot.id@gmail.com](mailto:lamhot.id@gmail.com) • [LinkedIn](https://www.linkedin.com/in/lamhotsiagian/) • [GitHub](https://github.com/lamhotsiagian)
+**📍 Hyderabad, India** • [dheerajpandey827@gmail.com](mailto:dheerajpandey827@gmail.com) • [LinkedIn](https://www.linkedin.com/in/dheerajpandeyin/) • [GitHub](https://github.com/binga1991)
 
 ---
 
@@ -10,20 +10,20 @@ Over 9 years of experience leading test automation and quality engineering initi
 
 ## Technical Skills
 
-* **Automation & Testing:** Java, Python, Swift, Selenium, Playwright, Cypress, Rest-Assured, Postman, Cucumber, TestNG, JUnit, Appium, Espresso, XCUITest, WireMock, JMeter, Faker, AI Automation
-* **CI/CD & DevOps:** Jenkins, GitHub Actions, GitLab CI, Docker, Kubernetes, AWS, GCP, Grafana, Rio
-* **Infrastructure & Tools:** Kafka, RabbitMQ, Splunk, Jira, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, Maven, Gradle, TestRails, Xray
+* **Automation & Testing:** Java, Python, Selenium, Playwright, Cypress, Rest-Assured, Postman, Cucumber, TestNG, JUnit, Appium, Espresso, XCUITest, WireMock, JMeter, Faker, AI Automation
+* **CI/CD & DevOps:** Jenkins, GitHub Actions, GitLab CI, Docker, Kubernetes, GCP
+* **Infrastructure & Tools:** Kafka, Splunk, Jira, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, Maven, Gradle, TestRails, Xray
 
 ## Education
 
-* **MS in Computer Science**, Maharishi International University, Fairfield, IA (Aug 2019 – Jul 2021)
-* **BS in Information Systems**, Bina Nusantara University, Jakarta, Indonesia (Sep 2012 – May 2018)
+* **MS in Computer Science**, TBD
+* **BTech in Information Technology**, Dr. APJ Abdul Kalam University, Lucknow, India (Sep 2010 – May 2014)
 
 ## Professional Experience
 
-### Senior SDET @ Kforce Inc. (Client: HP & Paramount+), Austin, TX
+### Senior SDET @ Deloitte India., Hyderabad, TG
 
-**Nov 2022 – May 2025**
+**Feb 2022 – Till Date**
 
 * Developed and maintained automated UI test suites with XCUI and Appium, ensuring consistent pass rates in CI/CD pipelines
 * Extended framework capabilities using Appium and Swift to integrate platform-specific test hooks and performance optimizations
@@ -37,9 +37,9 @@ Over 9 years of experience leading test automation and quality engineering initi
 * Reduced flaky tests by 70% through Appium-based platform hooks that dynamically adjust timeouts and retry on known render-delay issues; slashed average pipeline runtime by 25% and improved overall pass rate to 99% in our Kubernetes-powered Jenkins environment.
 *  8 Improved user-perceived performance by 40% by embedding Swift-based performance probes around video-startup and buffer-fill routines, capturing metrics in Allure Reports and Grafana dashboards; surfaced critical regressions pre-release, preventing a 2× increase in customer-reported buffering incidents.
 
-### SDET @ Apple, Sunnyvale, CA
+### SDET @ Vertafore, Hyderabad, TG
 
-**Nov 2021 – Nov 2022**
+**Sep 2017 – Jan 2022**
 
 * Built ETL API tests using TestNG, Postman, and Rest-Assured for the Apple Store Catalog.
 * Implemented UI automation for iOS with XCUITest and web with Playwright and Cypress using BDD methodologies.
@@ -50,9 +50,9 @@ Over 9 years of experience leading test automation and quality engineering initi
 * Reduced false positives by 50% through optimized page objects, parallel execution, and refined timeouts.
 * Introduced AI-driven bug triage and Gherkin test generation to streamline test creation.
 
-### SW Test Engineer II @ Dexcom, San Diego, CA
+### Test Engineer @ Possibleworks, Hyderabad, TG
 
-**Jul 2020 – Jun 2021**
+**Mar 2016 – May 2017**
 
 * Led API, web, Android, and iOS testing programs across 60+ countries, ensuring FDA compliance.
 * Managed high-compliance documentation and audit readiness for clinical applications.
@@ -62,18 +62,6 @@ Over 9 years of experience leading test automation and quality engineering initi
 
 * Increased automated coverage to 80%, enhancing regression reliability.
 * Delivered validated clinical apps within a two-month development cycle.
-
-### Sr. SDET @ Bukalapak.com, Jakarta, Indonesia
-
-**Nov 2016 – Sep 2019**
-
-* Developed end-to-end test suites for Android, iOS, web, and APIs using BDD with Selenium and Appium.
-* Integrated automation into GitLab CI, Jenkins, and Travis CI within Docker/Kubernetes environments.
-
-**Key Achievements:**
-
-* Fast-tracked to Senior SDET as the youngest team member.
-* Presented test automation best practices at the Selenium Conference in Tokyo.
 
 ## Projects
 
