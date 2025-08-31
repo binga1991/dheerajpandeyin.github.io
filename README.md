@@ -1,4 +1,4 @@
-# Dheeraj Pandey — SDET / Test Engineer
+# Dheeraj Pandey — SDET / Automation Consultant
 
 **📍 Hyderabad, India** • [dheerajpandey827@gmail.com](mailto:dheerajpandey827@gmail.com) • [LinkedIn](https://www.linkedin.com/in/dheerajpandeyin/) • [GitHub](https://github.com/binga1991)
 
